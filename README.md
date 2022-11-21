@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bunsy</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **ChatX4 (Fun Project).**
-
-- 🌱 I’m currently learning **Flutter, RUST, & Golang.**
-
 - 👯 I’m looking to collaborate on **creating websites.**
 
 - 💬 Ask me about **Laravel, ReactJS, React Native, Golang, & NestJS.**
